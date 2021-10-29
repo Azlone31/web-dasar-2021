@@ -1,0 +1,14 @@
+h2 {
+    color: #04bb1d;
+}
+h1 {
+    color: rgb(255, 208, 0);
+    font-style: italic;
+    font-family: sans-serif;
+}
+.biru {
+    color: blue;
+}
+.garisbawah {
+    text-decoration: underline;
+}
